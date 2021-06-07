@@ -1,0 +1,5 @@
+This is a project for the Responsive Web Design course on freeCodeCamp.org
+My profile: https://www.freecodecamp.org/fcc976624bf-c1a5-4efc-b2a3-0385aa6cc5a5
+
+The completed assignment (with preview) is available at https://codepen.io/alexofthefoot/pen/bGqoMme.
+I didn't get too creative on this one, just tried to keep it close to the original as possible. 
